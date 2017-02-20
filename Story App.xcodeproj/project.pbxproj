@@ -12,6 +12,7 @@
 		F713057E1E5A5EC40024D40F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F713057C1E5A5EC40024D40F /* Main.storyboard */; };
 		F71305801E5A5EC40024D40F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F713057F1E5A5EC40024D40F /* Assets.xcassets */; };
 		F71305831E5A5EC40024D40F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F71305811E5A5EC40024D40F /* LaunchScreen.storyboard */; };
+		F713058D1E5A6CE80024D40F /* story.swift in Sources */ = {isa = PBXBuildFile; fileRef = F713058C1E5A6CE80024D40F /* story.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F713057F1E5A5EC40024D40F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F71305821E5A5EC40024D40F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F71305841E5A5EC40024D40F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F713058C1E5A6CE80024D40F /* story.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = story.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				F71305781E5A5EC40024D40F /* AppDelegate.swift */,
 				F713057A1E5A5EC40024D40F /* ViewController.swift */,
 				F713057C1E5A5EC40024D40F /* Main.storyboard */,
+				F713058C1E5A6CE80024D40F /* story.swift */,
 				F713057F1E5A5EC40024D40F /* Assets.xcassets */,
 				F71305811E5A5EC40024D40F /* LaunchScreen.storyboard */,
 				F71305841E5A5EC40024D40F /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				F713057B1E5A5EC40024D40F /* ViewController.swift in Sources */,
 				F71305791E5A5EC40024D40F /* AppDelegate.swift in Sources */,
+				F713058D1E5A6CE80024D40F /* story.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
